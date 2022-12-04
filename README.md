@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.maxpou.fr%2Fgithub-tips-and-tricks&psig=AOvVaw1mUwmZBmn_OkyaMtm5D0EU&ust=1670239140760000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNC2zOfr3_sCFQAAAAAdAAAAABAK)
+![logo](https://github.com/siddhiparsekar/siddhiparsekar/blob/main/banner.png)
 <h1 align="center">Hey there 👋, I'm Siddhi!</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
