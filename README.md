@@ -1,6 +1,6 @@
 ![logo](https://github.com/siddhiparsekar/siddhiparsekar/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Siddhi!</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h1 align="center">Hey there👋, I'm Siddhi!</h1>
+<h3 align="center">A passionate Software Engineer.</h3>
 
 - 🔭 I’m currently working on **Javascript**
 
