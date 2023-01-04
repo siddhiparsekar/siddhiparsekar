@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **Javascript and it's libraries**
 
 - 🌱 I’m currently learning **Data structures and Algorithms along with Web development**
 
